@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
+## Math
+|  |
+| ------- |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 <!---LeetCode Topics End-->
