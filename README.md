@@ -7,17 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 ## Tree
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 ## String
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 ## Graph Theory
 |  |
 | ------- |
