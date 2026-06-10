@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
