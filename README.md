@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
