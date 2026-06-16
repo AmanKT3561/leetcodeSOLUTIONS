@@ -159,9 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
