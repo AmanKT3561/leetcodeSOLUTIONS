@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
