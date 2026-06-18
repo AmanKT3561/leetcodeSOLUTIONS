@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -136,11 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Database
 |  |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0096-unique-binary-search-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
