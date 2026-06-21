@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0001-two-sum) |
+| [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -213,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
