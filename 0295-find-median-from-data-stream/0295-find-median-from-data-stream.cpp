@@ -1,39 +1,32 @@
-#include <bits/stdc++.h>
-#include <ext/pb_ds/assoc_container.hpp>
-#include <ext/pb_ds/tree_policy.hpp>
-
-using namespace std;
-using namespace __gnu_pbds;
-
-typedef tree<
-    pair<int,int>,
-    null_type,
-    less<pair<int,int>>,
-    rb_tree_tag,
-    tree_order_statistics_node_update
-> ordered_set;
-
 class MedianFinder {
 public:
-    ordered_set st;
-    int id = 0;
+    priority_queue<int> pq;   // max heap
+    priority_queue<int, vector<int>, greater<int>> mn; // min heap
 
     MedianFinder() {}
 
     void addNum(int num) {
-        st.insert({num, id++});
+
+        if (pq.empty() || num <= pq.top())
+            pq.push(num);
+        else
+            mn.push(num);
+
+        if (pq.size() > mn.size() + 1) {
+            mn.push(pq.top());
+            pq.pop();
+        }
+        else if (mn.size() > pq.size()) {
+            pq.push(mn.top());
+            mn.pop();
+        }
     }
 
     double findMedian() {
-        int n = st.size();
 
-        if (n & 1) {
-            return st.find_by_order(n / 2)->first;
-        }
+        if (pq.size() == mn.size())
+            return (pq.top() + mn.top()) / 2.0;
 
-        auto it1 = st.find_by_order(n / 2 - 1);
-        auto it2 = st.find_by_order(n / 2);
-
-        return (it1->first + it2->first) / 2.0;
+        return pq.top();
     }
 };
