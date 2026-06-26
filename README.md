@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0096-unique-binary-search-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
