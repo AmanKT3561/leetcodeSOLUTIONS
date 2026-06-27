@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0001-two-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
 ## Sliding Window
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Concurrency
@@ -246,10 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
@@ -259,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0295-find-median-from-data-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
