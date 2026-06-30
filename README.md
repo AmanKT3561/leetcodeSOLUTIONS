@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3838-weighted-word-mapping) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Suffix Array
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -315,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## String Matching
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->
