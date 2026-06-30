@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1943-describe-the-painting](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1943-describe-the-painting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3614-process-string-with-special-operations-ii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Rolling Hash
 |  |
 | ------- |
