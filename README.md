@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Database
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
