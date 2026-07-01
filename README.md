@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1943-describe-the-painting](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1943-describe-the-painting) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
