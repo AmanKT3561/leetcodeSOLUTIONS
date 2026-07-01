@@ -1,37 +1,44 @@
 class SummaryRanges {
 public:
-    map<int, int> mp;
+    map<int, int> mp; 
+
     SummaryRanges() {}
 
-    void addNum(int value) { mp[value]++; }
+    void addNum(int value) {
 
-    vector<vector<int>> getIntervals() {
-    vector<vector<int>> ans;
-    int val = -1;
-    int firstval = -1;
+        auto it = mp.upper_bound(value);
 
-    for (auto i : mp) {
+        int left = value, right = value;
 
-        if (val == -1) {
-            val = i.first;
-            firstval = i.first;
-            continue;
+        if (it != mp.begin()) {
+            auto prev = it;
+            --prev;
+
+            if (prev->second >= value)
+                return; 
+
+            if (prev->second + 1 == value) {
+                left = prev->first;
+                mp.erase(prev);
+            }
         }
 
-        if (i.first == val + 1) {
-            val = i.first;
-        } else {
-            ans.push_back({firstval, val});
-            firstval = i.first;
-            val = i.first;
+        if (it != mp.end() && it->first - 1 == value) {
+            right = it->second;
+            mp.erase(it);
         }
+
+        mp[left] = right;
     }
 
-    if (val != -1)
-        ans.push_back({firstval, val});
+    vector<vector<int>> getIntervals() {
+        vector<vector<int>> ans;
 
-    return ans;
-}
+        for (auto &[l, r] : mp)
+            ans.push_back({l, r});
+
+        return ans;
+    }
 };
 
 /**
