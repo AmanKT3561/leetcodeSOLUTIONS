@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1094-car-pooling) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Math
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -350,4 +354,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
