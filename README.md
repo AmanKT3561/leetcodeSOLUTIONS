@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3620-network-recovery-pathways) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
