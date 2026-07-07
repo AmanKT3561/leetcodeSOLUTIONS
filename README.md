@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1109-corporate-flight-bookings) |
+| [1288-remove-covered-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1094-car-pooling](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
