@@ -1,70 +1,87 @@
 class Tree {
-private:
-    const int root = 0;
-    const vector<int>* adjList;
-    const int log2dist;
-    vector<int> par;
-    vector<vector<int>> pow2ends;
-    vector<int> depth;
-
-    void process(int at, int prev) {
-        par[at] = prev;
-        depth[at] = depth[prev] + 1;
-        for (int n : adjList[at]) {
-            if (n != prev) {
-                process(n, at);
-            }
-        }
-    }
-
 public:
-    Tree(const vector<int>* adjList, int size)
-        : adjList(adjList), log2dist(ceil(log2(size))), par(size),
-          pow2ends(size, vector<int>(log2dist + 1)), depth(size) {
-        par[root] = -1;
-        depth[root] = 0;
-        process(root, root);
+    vector<int> euler;
+    vector<int> depthEuler;
+    vector<int> first;
+    vector<int> seg;
+    vector<int> depth;
+    vector<int>* adj;
 
-        for (int n = 0; n < size; n++) {
-            pow2ends[n][0] = par[n];
-        }
+    Tree(vector<int>* g, int n) {
+        adj = g;
+        first.assign(n, -1);
+        depth.assign(n, 0);
 
-        for (int p = 1; p <= log2dist; p++) {
-            for (int n = 0; n < size; n++) {
-                int halfway = pow2ends[n][p - 1];
-                pow2ends[n][p] = (halfway == -1) ? -1 : pow2ends[halfway][p - 1];
-            }
+        dfs(0, -1, 0);
+
+        seg.resize(4 * euler.size());
+        build(1, 0, euler.size() - 1);
+    }
+
+    void dfs(int node, int par, int d) {
+        depth[node] = d;
+
+        if (first[node] == -1)
+            first[node] = euler.size();
+
+        euler.push_back(node);
+        depthEuler.push_back(d);
+
+        for (int child : adj[node]) {
+            if (child == par) continue;
+            dfs(child, node, d + 1);
+            euler.push_back(node);
+            depthEuler.push_back(d);
         }
     }
 
-    int kth_parent(int n, int k) {
-        if (k >= par.size()) return -1;
-        int at = n;
-        for (int pow = 0; pow <= log2dist; pow++) {
-            if ((k & (1 << pow)) != 0) {
-                at = pow2ends[at][pow];
-                if (at == -1) break;
-            }
+    void build(int idx, int l, int r) {
+        if (l == r) {
+            seg[idx] = l;
+            return;
         }
-        return at;
+
+        int mid = (l + r) / 2;
+
+        build(idx * 2, l, mid);
+        build(idx * 2 + 1, mid + 1, r);
+
+        if (depthEuler[seg[idx * 2]] < depthEuler[seg[idx * 2 + 1]])
+            seg[idx] = seg[idx * 2];
+        else
+            seg[idx] = seg[idx * 2 + 1];
     }
 
-    int lca(int n1, int n2) {
-        if (depth[n1] < depth[n2]) swap(n1, n2);
-        n1 = kth_parent(n1, depth[n1] - depth[n2]);
-        if (n1 == n2) return n2;
+    int query(int idx, int l, int r, int ql, int qr) {
+        if (r < ql || l > qr)
+            return -1;
 
-        for (int i = log2dist; i >= 0; i--) {
-            if (pow2ends[n1][i] != pow2ends[n2][i]) {
-                n1 = pow2ends[n1][i];
-                n2 = pow2ends[n2][i];
-            }
-        }
-        return pow2ends[n1][0];
+        if (ql <= l && r <= qr)
+            return seg[idx];
+
+        int mid = (l + r) / 2;
+
+        int left = query(idx * 2, l, mid, ql, qr);
+        int right = query(idx * 2 + 1, mid + 1, r, ql, qr);
+
+        if (left == -1) return right;
+        if (right == -1) return left;
+
+        if (depthEuler[left] < depthEuler[right])
+            return left;
+        return right;
     }
 
-    int dist(int n1, int n2) {
-        return depth[n1] + depth[n2] - 2 * depth[lca(n1, n2)];
+    int lca(int u, int v) {
+        int l = first[u];
+        int r = first[v];
+
+        if (l > r)
+            swap(l, r);
+
+        int idx = query(1, 0, euler.size() - 1, l, r);
+
+        return euler[idx];
     }
 };
 
