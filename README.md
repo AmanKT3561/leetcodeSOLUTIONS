@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0572-subtree-of-another-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0572-subtree-of-another-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Segment Tree
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
+| [0572-subtree-of-another-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Union-Find
 |  |
