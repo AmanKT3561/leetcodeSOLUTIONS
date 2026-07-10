@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0891-sum-of-subsequence-widths](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0891-sum-of-subsequence-widths) |
 | [1094-car-pooling](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1288-remove-covered-intervals) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0891-sum-of-subsequence-widths](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0891-sum-of-subsequence-widths) |
 | [1094-car-pooling](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0096-unique-binary-search-trees) |
+| [0891-sum-of-subsequence-widths](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0891-sum-of-subsequence-widths) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2165-smallest-value-of-the-rearranged-number) |
