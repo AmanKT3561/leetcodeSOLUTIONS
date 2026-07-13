@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1943-describe-the-painting](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1943-describe-the-painting) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1943-describe-the-painting](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1943-describe-the-painting) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3612-process-string-with-special-operations-i) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3620-network-recovery-pathways) |
 ## Counting Sort
