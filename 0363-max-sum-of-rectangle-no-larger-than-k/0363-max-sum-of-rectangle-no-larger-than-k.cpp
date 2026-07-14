@@ -12,12 +12,12 @@ public:
                 int curSum = 0, curMax = INT_MIN;
                 for (int sum : sums) {
                     curSum += sum;
-                    set<int>::iterator it = accuSet.lower_bound(curSum - k);
+                    auto it = accuSet.lower_bound(curSum - k);
                     if (it != accuSet.end())
-                        curMax = std::max(curMax, curSum - *it);
+                        curMax = max(curMax, curSum - *it);
                     accuSet.insert(curSum);
                 }
-                res = std::max(res, curMax);
+                res = max(res, curMax);
             };
 
         for (int l = 0; l < col; ++l) {
