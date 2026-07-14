@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2742-painting-the-walls](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2742-painting-the-walls) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3620-network-recovery-pathways) |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
