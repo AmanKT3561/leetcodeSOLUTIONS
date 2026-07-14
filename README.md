@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0851-loud-and-rich](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0851-loud-and-rich) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0891-sum-of-subsequence-widths](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0891-sum-of-subsequence-widths) |
 | [1094-car-pooling](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1094-car-pooling) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
+| [0851-loud-and-rich](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1462-course-schedule-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2360-longest-cycle-in-a-graph) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0685-redundant-connection-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0834-sum-of-distances-in-tree) |
+| [0851-loud-and-rich](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2360-longest-cycle-in-a-graph) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0310-minimum-height-trees) |
+| [0851-loud-and-rich](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2360-longest-cycle-in-a-graph) |
