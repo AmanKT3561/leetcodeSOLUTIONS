@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
+| [0523-continuous-subarray-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0523-continuous-subarray-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1943-describe-the-painting](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1943-describe-the-painting) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0096-unique-binary-search-trees) |
+| [0523-continuous-subarray-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0891-sum-of-subsequence-widths](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0891-sum-of-subsequence-widths) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0523-continuous-subarray-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
