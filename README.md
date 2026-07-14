@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0525-contiguous-array) |
 | [0729-my-calendar-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
