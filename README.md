@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1301-number-of-paths-with-max-score) |
+| [1310-xor-queries-of-a-subarray](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1109-corporate-flight-bookings) |
+| [1310-xor-queries-of-a-subarray](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1310-xor-queries-of-a-subarray) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1943-describe-the-painting](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1943-describe-the-painting) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
