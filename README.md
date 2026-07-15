@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
+| [0855-exam-room](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0855-exam-room) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1094-car-pooling) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
+| [0855-exam-room](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0855-exam-room) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Data Stream
 |  |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
+| [0855-exam-room](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0855-exam-room) |
 ## Enumeration
 |  |
 | ------- |
