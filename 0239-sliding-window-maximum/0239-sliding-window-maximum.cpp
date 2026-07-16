@@ -1,69 +1,49 @@
-class SparseTable {
-    vector<vector<int>> st;
-    vector<int> lg;
-    int n;
-
-public:
-    SparseTable(vector<int>& arr) {
-        n = arr.size();
-
-        // Precompute logs
-        lg.resize(n + 1);
-        lg[1] = 0;
-        for (int i = 2; i <= n; i++)
-            lg[i] = lg[i / 2] + 1;
-
-        int K = lg[n] + 1;
-        st.assign(K, vector<int>(n));
-
-        // Level 0
-        for (int i = 0; i < n; i++)
-            st[0][i] = arr[i];
-
-        // Build Sparse Table
-        for (int j = 1; j < K; j++) {
-            for (int i = 0; i + (1 << j) <= n; i++) {
-                st[j][i] = max(st[j - 1][i],
-                               st[j - 1][i + (1 << (j - 1))]);
-            }
-        }
-    }
-
-    // Maximum in [L, R]
-    int query(int L, int R) {
-        int len = R - L + 1;
-        int j = lg[len];
-        return max(st[j][L],
-                   st[j][R - (1 << j) + 1]);
-    }
-};
-
-
 class Solution {
 public:
-    vector<int> maxSlidingWindow(vector<int>& arr, int k) {
-        deque<int> dq;
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
 
-        
-        vector<int> result;
+        int n = nums.size();
+        vector<int> seg(4 * n);
 
-      
-        int l= 0 ;
-        int r = k-1;
-        int n = arr.size();
+        auto build = [&](auto &&self, int node, int l, int r) -> void {
+            if (l == r) {
+                seg[node] = nums[l];
+                return;
+            }
 
-        SparseTable st(arr);
+            int mid = (l + r) / 2;
 
+            self(self, 2 * node, l, mid);
+            self(self, 2 * node + 1, mid + 1, r);
 
-        while(r<n){
-          result.push_back(st.query(l , r));
-          l++;
-          r++;
-        } 
-            
+            seg[node] = max(seg[2 * node], seg[2 * node + 1]);
+        };
 
-        return result;
-          
+        auto query = [&](auto &&self, int node, int l, int r,
+                         int ql, int qr) -> int {
 
+            if (r < ql || l > qr)
+                return INT_MIN;
+
+            if (ql <= l && r <= qr)
+                return seg[node];
+
+            int mid = (l + r) / 2;
+
+            return max(
+                self(self, 2 * node, l, mid, ql, qr),
+                self(self, 2 * node + 1, mid + 1, r, ql, qr)
+            );
+        };
+
+        build(build, 1, 0, n - 1);
+
+        vector<int> ans;
+
+        for (int l = 0, r = k - 1; r < n; l++, r++) {
+            ans.push_back(query(query, 1, 0, n - 1, l, r));
+        }
+
+        return ans;
     }
 };
