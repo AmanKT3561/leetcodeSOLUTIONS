@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3838-weighted-word-mapping](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3838-weighted-word-mapping) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Sorting
 |  |
 | ------- |
