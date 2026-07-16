@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2742-painting-the-walls](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2742-painting-the-walls) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Rolling Hash
 |  |
 | ------- |
