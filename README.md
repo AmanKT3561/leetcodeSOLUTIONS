@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0001-two-sum) |
+| [0239-sliding-window-maximum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [0855-exam-room](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0855-exam-room) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Prefix Sum
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Linked List
