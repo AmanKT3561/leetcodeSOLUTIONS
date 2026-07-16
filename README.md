@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3620-network-recovery-pathways) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Graph Theory
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3620-network-recovery-pathways) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Database
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
