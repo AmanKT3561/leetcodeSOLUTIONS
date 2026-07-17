@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
