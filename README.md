@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2424-longest-uploaded-prefix](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2424-longest-uploaded-prefix) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
 | [2424-longest-uploaded-prefix](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2424-longest-uploaded-prefix) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3477-fruits-into-baskets-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -434,11 +437,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
@@ -461,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2424-longest-uploaded-prefix](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2424-longest-uploaded-prefix) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Ordered Set
 |  |
 | ------- |
@@ -472,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0732-my-calendar-iii) |
 | [0855-exam-room](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0855-exam-room) |
 | [2424-longest-uploaded-prefix](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2424-longest-uploaded-prefix) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [3477-fruits-into-baskets-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3477-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
