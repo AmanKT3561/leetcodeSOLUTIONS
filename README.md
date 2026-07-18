@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1943-describe-the-painting](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1943-describe-the-painting) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0891-sum-of-subsequence-widths) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -497,5 +499,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
