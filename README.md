@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0502-ipo](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [1044-longest-duplicate-substring](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1044-longest-duplicate-substring) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0321-create-maximum-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKT3561/leetcodeSOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
